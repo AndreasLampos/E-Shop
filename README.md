@@ -52,5 +52,5 @@ This project is licensed under the MIT License. Feel free to modify and use it f
 
 ## Authors
 
-Thanos Dimitrakopoulos
+Thanos Dimitrakopoulos\n
 Andrew Lampos
