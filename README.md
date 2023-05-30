@@ -1,62 +1,56 @@
 # Project Title
 
-Simple overview of use/purpose.
+The eShop Program is a web-based application designed to facilitate online shopping and streamline the management of an e-commerce store. It provides a user-friendly interface for customers to browse and purchase products, while also offering administrative capabilities for store owners to manage inventory, process orders, and track sales.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Product Catalog: The eShop Program allows you to create and manage a comprehensive product catalog. Each product can have various attributes such as name, description, price, and availability.
 
-## Getting Started
+Customer Registration: Customers can create accounts to personalize their shopping experience, store their billing and shipping information, and track their order history.
 
-### Dependencies
+Shopping Cart: The program includes a shopping cart feature that enables customers to add products, update quantities, and proceed to checkout for purchase.
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Secure Payment Processing: Integration with popular payment gateways ensures secure and reliable transaction processing. Customers can choose from various payment methods such as credit cards, PayPal, or other electronic payment options.
 
-### Installing
+Order Management: The eShop Program provides an intuitive interface for store owners to manage incoming orders, track order status, and generate invoices for customers. It also allows for order cancellation or modification, if necessary.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Inventory Management: Store owners can easily add new products, update quantities, and manage stock levels. Automated notifications can be set up to alert when inventory reaches a certain threshold.
 
-### Executing program
+Customer Support: Customers can contact the store's customer support team through integrated messaging or email for inquiries, issues, or product assistance.
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Promotions and Discounts: Store owners have the ability to create and apply promotional discounts, coupon codes, or special offers to specific products or for a limited time.
 
-## Help
+Reporting and Analytics: The eShop Program provides valuable insights into sales data, customer behavior, and product performance through comprehensive reporting and analytics tools. This helps in making informed business decisions and identifying areas for improvement.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+## Installation
+Clone the repository from GitHub.
 
-## Authors
+Install the required dependencies by running npm install in the project directory.
 
-Contributors names and contact info
+Configure the database connection by modifying the database configuration file.
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Run the application using the command npm start.
 
-## Version History
+Access the eShop Program through your web browser at http://localhost:3000.
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+## Requirments
+
+Node.js
+Express.js
+MongoDB
+Payment gateway integration (e.g., Stripe, PayPal)
+Front-end framework (e.g., React, Angular, Vue.js)
+Web server (e.g., Nginx, Apache)
+
+## Contributing
+
+Contributions to the eShop Program are welcome! If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository.
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License. Feel free to modify and use it for your own purposes.
 
-## Acknowledgments
+## Authors
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Thanos Dimitrakopoulos
+Andrew Lampos
