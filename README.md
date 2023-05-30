@@ -52,4 +52,4 @@ This project is licensed under the MIT License. Feel free to modify and use it f
 
 ## Authors
 
-Athanasios Dimitrakopoulos <br>Andrew Lampos <br> Swkratis Giannoutsos
+Athanasios Dimitrakopoulos <br>Andreas Lampos <br> Swkratis Giannoutsos
